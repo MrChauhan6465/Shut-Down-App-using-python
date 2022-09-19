@@ -6,6 +6,9 @@ its a simple shutdown app which does restart , shutdown your pc using tkinter an
 ## 🚀 About Me
 I'm a Programmer.
 
+## Screenshots
+![image](https://user-images.githubusercontent.com/89354259/191071590-2833625f-d856-438f-8212-d56e1a270173.png)
+
 
 
 ## 🛠 Skills
